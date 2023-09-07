@@ -1,0 +1,15 @@
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\bin\Debug\net7.0\Gotera.Application.deps.json
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\bin\Debug\net7.0\Gotera.Application.dll
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\bin\Debug\net7.0\Gotera.Application.pdb
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\bin\Debug\net7.0\Gotera.Domain.dll
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\bin\Debug\net7.0\Gotera.Domain.pdb
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\obj\Debug\net7.0\Gotera.Application.csproj.AssemblyReference.cache
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\obj\Debug\net7.0\Gotera.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\obj\Debug\net7.0\Gotera.Application.AssemblyInfoInputs.cache
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\obj\Debug\net7.0\Gotera.Application.AssemblyInfo.cs
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\obj\Debug\net7.0\Gotera.Application.csproj.CoreCompileInputs.cache
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\obj\Debug\net7.0\Gotera.Application.csproj.CopyComplete
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\obj\Debug\net7.0\Gotera.Application.dll
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\obj\Debug\net7.0\refint\Gotera.Application.dll
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\obj\Debug\net7.0\Gotera.Application.pdb
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Application\obj\Debug\net7.0\ref\Gotera.Application.dll

@@ -1,0 +1,17 @@
+2023-09-07T10:38:15.3071772+03:00 [INF] () Application startup services registration
+2023-09-07T10:38:16.3708293+03:00 [INF] () Application startup middleware registration
+2023-09-07T10:38:38.3941222+03:00 [INF] () Application Starting
+2023-09-07T10:38:39.6462289+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger" responded 301 in 372.2544 ms
+2023-09-07T10:38:40.6761021+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/index.html" responded 200 in 912.0336 ms
+2023-09-07T10:38:40.8201401+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 47.5571 ms
+2023-09-07T10:38:40.8207187+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 75.1681 ms
+2023-09-07T10:38:40.8334049+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 90.0639 ms
+2023-09-07T10:38:42.8496895+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 1.4080 ms
+2023-09-07T10:38:43.1642938+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 496.5198 ms
+2023-09-07T10:38:55.1401727+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/v1/Employees" responded 200 in 2563.4647 ms
+2023-09-07T10:42:51.3478225+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/info" responded 200 in 57.5159 ms
+2023-09-07T10:43:10.3577581+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/v1/Positions" responded 200 in 1058.5530 ms
+2023-09-07T10:43:34.9932561+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "POST" "/api/v1/Positions/Paged" responded 401 in 60.2403 ms
+2023-09-07T10:44:05.8163658+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "POST" "/api/v1/Positions/AddMock" responded 200 in 1636.7180 ms
+2023-09-07T10:44:23.5105414+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/v1/Employees" responded 200 in 132.3308 ms
+2023-09-07T10:45:03.5310526+03:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/v1/Employees" responded 200 in 81.3342 ms

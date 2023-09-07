@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bEslb6j5L4qZ8vlE6KYql5hvRyyZ8RA4b6K3WlYAsz4=",
+  "Source": "Gotera.WebApi",
+  "BasePath": "_content/Gotera.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

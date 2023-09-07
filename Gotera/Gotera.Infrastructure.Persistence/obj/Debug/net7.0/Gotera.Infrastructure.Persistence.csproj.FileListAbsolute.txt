@@ -1,0 +1,17 @@
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\bin\Debug\net7.0\Gotera.Infrastructure.Persistence.deps.json
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\bin\Debug\net7.0\Gotera.Infrastructure.Persistence.dll
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\bin\Debug\net7.0\Gotera.Infrastructure.Persistence.pdb
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\bin\Debug\net7.0\Gotera.Application.dll
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\bin\Debug\net7.0\Gotera.Domain.dll
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\bin\Debug\net7.0\Gotera.Application.pdb
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\bin\Debug\net7.0\Gotera.Domain.pdb
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\obj\Debug\net7.0\Gotera.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\obj\Debug\net7.0\Gotera.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\obj\Debug\net7.0\Gotera.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\obj\Debug\net7.0\Gotera.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\obj\Debug\net7.0\Gotera.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\obj\Debug\net7.0\Gotera.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\obj\Debug\net7.0\Gotera.Infrastructure.Persistence.dll
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\obj\Debug\net7.0\refint\Gotera.Infrastructure.Persistence.dll
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\obj\Debug\net7.0\Gotera.Infrastructure.Persistence.pdb
+C:\Users\sewunet.a\Documents\ERP\Gotera\Gotera\Gotera.Infrastructure.Persistence\obj\Debug\net7.0\ref\Gotera.Infrastructure.Persistence.dll
